@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+- 🌱 I’m currently learning computer science and web development.
+- 👯 I’m looking to collaborate on Python open source projects.
+- 🔭 I’m currently working on backend and spider development.
 <!--
 **ChihweiLHBird/ChihweiLHBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
