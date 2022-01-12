@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 
-- ☺️ I’m actively looking for software development opportunity.
-- 🌱 I’m currently learning computer science and web development.
-- 👯 I’m looking to collaborate on Python open source projects.
-- 🔭 I’m currently working on backend and spider development.
+- ☺️ I’m currently learning software development and cloud operation skills.
+- 👯 I’m looking to collaborate on fun and useful open-source projects.
+- 🔭 I’m currently exploring DevOps/Cloud Automation field and dreaming about becoming a DevOps/SRE Engineer.
+- ⚡ Fun fact: Failed almost all large exams in my life.
 
 <!--
 **ChihweiLHBird/ChihweiLHBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
