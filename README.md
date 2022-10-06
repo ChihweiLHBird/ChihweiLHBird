@@ -4,8 +4,7 @@
 
 - ☺️ I’m currently learning software development and cloud operation skills.
 - 👯 I’m looking to collaborate on fun and useful open-source projects.
-- 🔭 I’m currently exploring DevOps/Cloud Automation field and dreaming about becoming a DevOps/SRE Engineer.
-- 🌱 I’m currently learning Kubernetes and cloud native development.
+- 🔭 I’m currently exploring Cloud Native and Kubernetes.
 <!--
 **ChihweiLHBird/ChihweiLHBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
