@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-- ☺️ I’m currently learning software development and cloud operation skills.
 - 👯 I’m looking to collaborate on fun and useful open-source projects.
 - 🔭 I’m currently exploring Cloud Native and Kubernetes.
 <!--
